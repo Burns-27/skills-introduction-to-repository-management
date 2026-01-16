@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Burns-27
+/src/backend/database.py      @Burns-27
+/src/backend/routers/auth.py  @Burns-27
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Burns-27
